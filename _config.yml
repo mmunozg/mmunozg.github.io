@@ -1,7 +1,7 @@
 remote_theme: Paramdigma/hydryne-jekyll-theme
-title: Hydryne testing 4
-url: "https://rynne.es"
-baseurl: "/hydryne-theme-testing"
+title: Pagina principal
+url: "https://mmunozg.github.com"
+baseurl: ""
 
 logo: /assets/images/logo.svg
 data:
