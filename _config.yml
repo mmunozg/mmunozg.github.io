@@ -28,8 +28,8 @@ data:
     #   highlight: true
   footer:
     - links:
-      - name: Pricing
-        link: /pricing/
+      # - name: Pricing
+      #   link: /pricing/
       - name: Blog
         link: /blog/
       - name: About
