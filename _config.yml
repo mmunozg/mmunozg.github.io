@@ -1,0 +1,76 @@
+remote_theme: Paramdigma/hydryne-jekyll-theme
+title: Hydryne testing 4
+url: "https://rynne.es"
+baseurl: "/hydryne-theme-testing"
+
+logo: /assets/images/logo.svg
+data:
+  navigation:
+    - name: Pricing
+      link: /pricing
+      new_window: false
+      highlight: false
+    - name: Blog
+      link: /blog
+      new_window: false
+      highlight: false
+    - name: About
+      link: /about
+      new_window: false
+      highlight: false
+    - name: Contact
+      link: /contact
+      new_window: false
+      highlight: false
+    - name: Sign Up
+      link: /
+      new_window: true
+      highlight: true
+  footer:
+    - links:
+      - name: Pricing
+        link: /pricing/
+      - name: Blog
+        link: /blog/
+      - name: About
+        link: /about/
+      - name: Contact
+        link: /contact/
+    - links:
+      - name: Login
+        link: /
+        new_window: true
+      - name: Sign Up
+        link: /
+        new_window: true
+      - name: Docs
+        link: /
+        new_window: true
+      - name: Status
+        link: /
+        new_window: true
+    - links:
+      - name: Facebook
+        link: https://facebook.com/cloudcannon/
+        new_window: true
+        social_icon: Facebook
+      - name: Twitter
+        link: https://twitter.com/cloudcannon/
+        social_icon: Twitter
+        new_window: true
+      - name: YouTube
+        link: https://youtube.com/cloudcannon/
+        social_icon: YouTube
+        new_window: true
+      - name: RSS
+        link: /feed.xml
+        social_icon: RSS
+        new_window: false
+
+collections:
+  staff_members:
+    _hide_content: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+permalink: pretty
