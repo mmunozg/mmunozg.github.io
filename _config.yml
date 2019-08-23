@@ -6,26 +6,26 @@ baseurl: ""
 logo: /assets/images/logo.svg
 data:
   navigation:
-    - name: Pricing
-      link: /pricing
+    # - name: Pricing
+    #   link: /pricing
+    #   new_window: false
+    #   highlight: false
+    - name: About
+      link: /about
       new_window: false
       highlight: false
     - name: Blog
       link: /blog
       new_window: false
       highlight: false
-    - name: About
-      link: /about
-      new_window: false
-      highlight: false
     - name: Contact
       link: /contact
       new_window: false
       highlight: false
-    - name: Sign Up
-      link: /
-      new_window: true
-      highlight: true
+    # - name: Sign Up
+    #   link: /
+    #   new_window: true
+    #   highlight: true
   footer:
     - links:
       - name: Pricing
@@ -36,32 +36,36 @@ data:
         link: /about/
       - name: Contact
         link: /contact/
+    # - links:
+    #   - name: Login
+    #     link: /
+    #     new_window: true
+    #   - name: Sign Up
+    #     link: /
+    #     new_window: true
+    #   - name: Docs
+    #     link: /
+    #     new_window: true
+    #   - name: Status
+    #     link: /
+    #     new_window: true
     - links:
-      - name: Login
-        link: /
-        new_window: true
-      - name: Sign Up
-        link: /
-        new_window: true
-      - name: Docs
-        link: /
-        new_window: true
-      - name: Status
-        link: /
-        new_window: true
-    - links:
-      - name: Facebook
-        link: https://facebook.com/cloudcannon/
-        new_window: true
-        social_icon: Facebook
-      - name: Twitter
-        link: https://twitter.com/cloudcannon/
-        social_icon: Twitter
-        new_window: true
+      # - name: Facebook
+      #   link: https://facebook.com/cloudcannon/
+      #   new_window: true
+      #   social_icon: Facebook
+      # - name: Twitter
+      #   link: https://twitter.com/cloudcannon/
+      #   social_icon: Twitter
+      #   new_window: true
       - name: YouTube
         link: https://youtube.com/cloudcannon/
         social_icon: YouTube
         new_window: true
+      - name: LinkedIn
+        link: https://www.linkedin.com/in/miguelmunozgarcia/
+        social_icon: LinkedIn
+        new_window: true 
       - name: RSS
         link: /feed.xml
         social_icon: RSS
