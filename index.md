@@ -1,6 +1,6 @@
 ---
-title: Force rebuild 2
-description: Track and optimize your sales team in real time
+title: Miguel Muñoz - BIM Expert
+description: Everything BIM
 layout: landing
 
 # Switch to true if you want to render the markdown content in this page.
@@ -8,11 +8,11 @@ custom-content: false
 
 # Hero section
 hero:
-  title: "Some title test 2"
-  subtitle: "Subtitle of the hero"
+  title: "Bienvenidos"
+  subtitle: "Soy Miguel Muñoz.... bla bla bla bal bla bla..."
   button:
     url: http://google.es
-    text: "Go somewhere"
+    text: "Saber más"
   image:
     url: assets/images/dashboard.png
     alt: dashboard
