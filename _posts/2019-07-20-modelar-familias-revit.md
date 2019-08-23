@@ -1,9 +1,12 @@
 ---
-date: 2016-07-20
-title: The process for direct sales
+date: 2019-07-20
+title: Modelar familias en Revit
 categories:
-  - sales
-author_staff_member: anna
+  - BIM
+  - BuildingSmart
+  - IFC
+  - Revit2020
+author_staff_member: miguel
 ---
 
 Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
